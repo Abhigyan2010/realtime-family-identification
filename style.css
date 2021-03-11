@@ -1,0 +1,28 @@
+.btn-primary{
+    width: 100%;
+    font-size: 20px;
+    height: 30%;
+}
+.btn-warning{
+    width: 30%;
+    font-size: 23px;
+}
+.btn-success{
+    font-size: 23px;
+    margin-bottom: 50px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 100px red;
+    margin-top: 150px;
+}
